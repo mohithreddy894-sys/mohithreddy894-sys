@@ -31,8 +31,6 @@
 
 #### 👨‍💻 About Me
 
-<img src="https://github.com/mohithreddy894-sys.png?size=300" width="170" alt="Mohith Reddy profile photo" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1200&color=06B6D4&center=true&vCenter=true&width=720&height=60&lines=Hi+there!+Welcome+to+my+profile;I'm+Vanticheruku+Mohith+Reddy" alt="Hi there! I'm Vanticheruku Mohith Reddy" />
 
 <h3>
@@ -60,15 +58,13 @@
 
 <br/>
 
-🎓 I'm a 2026 **BCA (Artificial Intelligence)** graduate from SDHR Degree College, SV University.
+> 👋 **A little about me:** I'm Mohith, a curious and hands-on learner who enjoys understanding how things work behind the scenes. I started with Linux and Git, then moved into AWS, Jenkins pipelines, Docker, Kubernetes, and GitOps by building real projects rather than only reading about them. When something breaks, I like to dig into the logs, find the root cause, and write down the fix so I don't repeat the mistake. I'm now looking for my first role in DevOps or Cloud, where I can keep learning, work with a team, and automate the boring parts of delivering software. ☁️🚀
 
-📚 I completed **DevOps and Cloud training at JSpiders**.
+I'm **Vanticheruku Mohith Reddy**, an aspiring DevOps and Cloud Engineer and a 2026 BCA (Artificial Intelligence) graduate from SDHR Degree College, SV University. I completed DevOps and Cloud training at JSpiders, where I worked with Linux, Git, Jenkins, AWS, Docker, Kubernetes, Terraform, and Ansible.
 
-☁️ I enjoy building real projects across **AWS, CI/CD, containers, Kubernetes, GitOps, and cloud automation**.
+I like learning by building real projects. So far I have created a DevSecOps CI/CD pipeline with Jenkins, SonarQube, and Trivy, a GitOps deployment using Argo CD and Kubernetes, a serverless image-compression app with AWS Lambda and S3, and Python and Shell scripts that automate everyday AWS tasks. When something breaks, I read the logs, find the root cause, and write down what I learned so the next fix is faster.
 
-🔧 I learn best by fixing what breaks, reading the logs, and documenting the solution.
-
-🚀 My goal is to grow into a reliable, production-ready **DevOps and Cloud Engineer**.
+I'm looking for an entry-level role as a DevOps Engineer, AWS Cloud Engineer, or Cloud Support Engineer, and I'm open to opportunities across India and to relocation.
 
 <table>
 <tr>
